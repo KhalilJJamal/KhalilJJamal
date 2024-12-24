@@ -1,4 +1,4 @@
-<h1>Hi, I'm Khalil! <br/><a href="https://github.com/khaliljjamal">Network Engineer</a> & <a href="https://www.linkedin.com/in/khaliljjamal/">Cybersecurity Professional</a>
+<h1> Khalil Jamal <br/><a href="https://github.com/khaliljjamal">Network Engineer</a> & <a href="https://www.linkedin.com/in/khaliljjamal/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 My Projects:</h2>
 
